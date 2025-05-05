@@ -87,6 +87,7 @@ Performance evaluation using R² and MSE
 pandas, sklearn, matplotlib
 
 🔍 Observations
+
 Titanic EDA: Survival is strongly influenced by gender and class. Females and 1st-class passengers had a higher survival rate.
 
 IMDB Sentiment Analysis: Logistic regression provided strong performance after TF-IDF transformation, showing effective sentiment separation.
