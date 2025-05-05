@@ -85,3 +85,12 @@ Performance evaluation using R² and MSE
 
 🔹 Libraries Used:
 pandas, sklearn, matplotlib
+
+🔍 Observations
+Titanic EDA: Survival is strongly influenced by gender and class. Females and 1st-class passengers had a higher survival rate.
+
+IMDB Sentiment Analysis: Logistic regression provided strong performance after TF-IDF transformation, showing effective sentiment separation.
+
+Credit Card Fraud Detection: The dataset had a heavy class imbalance. Using SMOTE significantly improved detection of fraudulent cases.
+
+Predictive Models: Decision Trees slightly outperformed Linear Regression on non-linear data patterns, emphasizing the importance of model choice based on data structure.
